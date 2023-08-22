@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Agustín, working in IT technologies for about 19 years.
 - 👀 I’m interested in software development mainly in C#.Net .Net Core. Sql Server, Angular and others tecnologies
 - 🌱 I’m currently updating concepts and tecnologies in microservices, patterns in C#, Angular, React
+- I'm updating concepts related to .Net architecture, Dockerization, and deploy projects to Kubernetes cluster
 - 📫 How to reach me: agustin.canteros@gmail.com
 
 <!---
